@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RejestrWPF", "RejestrWPF\RejestrWPF.csproj", "{020387B5-BF12-4189-A30A-A79DCACFB105}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe_WPF", "RejestrWPF\TicTacToe_WPF.csproj", "{020387B5-BF12-4189-A30A-A79DCACFB105}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

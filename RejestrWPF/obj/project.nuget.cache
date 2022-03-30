@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r+yE6PJgThmwnDORjJEK3okA8C/wxEaCr4cs96yFD+j98XumPxICREzfz96qoQ5ZRN/TJzAnNjxJxS6QEdKRnA==",
+  "dgSpecHash": "/Pt99BuLO/rIdWLFePQg7BgUhnfeWDCKInSBjdX6um9a5nLszK/1x+ZKvSHzSrnJKbV7V+SnB1odmXOmaiJaRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\RejestrWPF.csproj",
+  "projectFilePath": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\TicTacToe_WPF.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

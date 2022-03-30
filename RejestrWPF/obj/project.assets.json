@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\RejestrWPF.csproj",
-      "projectName": "RejestrWPF",
-      "projectPath": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\RejestrWPF.csproj",
+      "projectUniqueName": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\TicTacToe_WPF.csproj",
+      "projectName": "TicTacToe_WPF",
+      "projectPath": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\TicTacToe_WPF.csproj",
       "packagesPath": "C:\\Users\\david.kuc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\david.kuc\\source\\repos\\RejestrWPF\\RejestrWPF\\obj\\",
       "projectStyle": "PackageReference",
